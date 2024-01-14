@@ -7,7 +7,7 @@ var app = Express();
 app.use(cors());
 
 var CONNECTION_STRING =
-  "mongodb+srv://pramodkumta26:5Xh8UdTmNa2PwO7M@cluster0.sltlrvk.mongodb.net/?retryWrites=true&w=majority";
+  "add-your-string-here";
 
 var DATABASE = "database_doc1";
 var database;
