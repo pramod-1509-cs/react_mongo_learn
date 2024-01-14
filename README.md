@@ -29,9 +29,8 @@ go inside client folder and run
  `node index.js`
 
  # step 4
- Everything is set except the database, which u need to set by downloading wamp server and create a database using myphpadmin
-
- make sure that you use the same database name and table which i have used in code
+ Everything is set except the database, which u need to set by creating a cluster in MongoDB atlas
+and also add your Mongo URL for database connection
  
 
 
